@@ -9,4 +9,12 @@ public class Mahasiswa {
     public String getNpm() {
         return npm;
     }
+
+    public void setNama(String nama) {
+        this.nama = nama;
+    }
+
+    public String getNama() {
+        return nama;
+    }
 }
